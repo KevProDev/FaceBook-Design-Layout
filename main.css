@@ -79,12 +79,15 @@ a:hover{
 .header{
   background: #3b5998;
   padding:10px;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
 }
 
 .spacer{
   max-width: 70%;
   margin: 0 auto
-  
+
 }
 
 .header a{
